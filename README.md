@@ -1,5 +1,5 @@
 # Reddit
-
+An single-paged application that utilizes the Reddit API to alert users of the top 50 stocks discussed on Wallstreetbets. Data is refreshed at 15 min intervals and user can ascertain sentiments about a particular stock. Built with React and Redux.
 ## Built With
 - React
 - Redux
