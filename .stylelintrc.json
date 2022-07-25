@@ -16,5 +16,5 @@
     ],
     "csstree/validator": true
   },
-  "ignoreFiles": ["public/**", "build/**", "dist/**", "src/assets/**", "**/reset*.css", "**/bootstrap*.css", "**/*.js", "**/*.json", "**/*.jsx"]
+  "ignoreFiles": ["public/**", "README.md", "LICENSE", "build/**", "dist/**", "src/assets/**", "**/reset*.css", "**/bootstrap*.css", "**/*.js", "**/*.json", "**/*.jsx"]
 }
