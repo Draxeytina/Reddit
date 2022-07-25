@@ -15,7 +15,7 @@ You may setup the project on your local machine using the following steps:
 
 - Open the terminal
 - Get into the directory you want this folder to appear
-- Type 'git clone https://github.com/Draxeytina/reddit.git'
+- Type 'git clone https://github.com/Draxeytina/Reddit.git'
 - Open index.html file and open it with live server in your preferred editor
 
 Optionally you can follow the link under see project above ☝️
