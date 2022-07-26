@@ -5,6 +5,7 @@ import {
   Route,
 } from 'react-router-dom';
 import Navbar from './components/Navbar';
+import StocksScreen from './components/Stocks';
 import './App.scss';
 
 function App() {
@@ -13,8 +14,8 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route exact path="/missions" />
-          <Route exact path="/rockets" />
+          <Route exact path="/stock%details" />
+          <Route exact path="/home" element={<StocksScreen />} />
           <Route
             path="*"
             element={
